@@ -1,1 +1,1 @@
-# ott-jpn
+# Use for japan.
