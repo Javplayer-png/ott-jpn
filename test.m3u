@@ -123,3 +123,17 @@ http://tv.utako.moe/mx2_testsignal/index.m3u8
 
 #関西
 
+#EXTINF:-1 group-title="関西" tvg-id="JOBKDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G 大阪(primehome1)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380849&sign=2a87d11ca6d93311ef31ab7f2b8e5919140bd936c2dd98a4b18d07936b94a3ed
+#EXTINF:-1 group-title="関西" tvg-id="JOBKDTV.jp" tvg-logo="https://i.imgur.com/mAR2Jlh.jpeg",NHK G 大阪(primehome2)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772939&sign=b81b2215d0d8954e7c9ed0fa3fdc67fe314143109ec424cdc7c700df7af78651
+#EXTINF:-1 group-title="関西" tvg-id="JOBKDTV.jp" tvg-logo="https://i.imgur.com/mAR2Jlh.jpeg",NHK G 大阪(primehome3)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&17&bind=0&uin=201829&playseek=0&timestamp=1732570029&sign=b547bbdb0f348dd2fc6e9360d48442d014cb2a2547e07d55a7f2c2699373a92b&bind=0&uin=201337&playseek=0&timestamp=1732077742&sign=66999d45f5bf6097b7d13e5a35a1f5d8c7e14ebdedeb280283
+
+#EXTINF:-1 group-title="関西" tvg-id="JOUHDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png",サンテレビ(primehome1)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380849&sign=2a87d11ca6d93311ef31ab7f2b8e5919140bd936c2dd98a4b18d07936b94a3ed
+#EXTINF:-1 group-title="関西" tvg-id="JOUHDTV.jp" tvg-logo="https://i.pinimg.com/474x/f2/84/98/f284984badded818e289616e7e50c318.jpg",サンテレビ(primehome2)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772939&sign=b81b2215d0d8954e7c9ed0fa3fdc67fe314143109ec424cdc7c700df7af78651
+#EXTINF:-1 group-title="関西" tvg-id="JOUHDTV.jp" tvg-logo="https://i.pinimg.com/474x/f2/84/98/f284984badded818e289616e7e50c318.jpg",サンテレビ(primehome3)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&17&bind=0&uin=201829&playseek=0&timestamp=1732570029&sign=b547bbdb0f348dd2fc6e9360d48442d014cb2a2547e07d55a7f2c2699373a92b&bind=0&uin=201337&playseek=0&timestamp=1732077742&sign=66999d45f5bf6097b7d13e5a35a1f5d8c7e14ebdedeb280283
+
