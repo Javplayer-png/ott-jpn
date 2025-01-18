@@ -685,6 +685,9 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12&isp=7&bi
 
 #TVer
 
+#EXTINF:-1 group-title="TVer" tvg-id="ntv" tvg-logo="https://i.imgur.com/oIfp5K3.jpeg",日本テレビ(TVer)
+https://ssai-variants.streaks.jp/v5/tver-simul-ntv/3865af1a962349ceaa5efe46008030db/ed089bc4b7f342b3bc8a7a2567039442/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-174-7969/ec1fb16e-99ff-4101-a4af-41634c436073/0.m3u8?pdt=-9135&session=ec1fb16e-99ff-4101-a4af-41634c436073&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibnR2LWxpdmUtY2RuLnR2ZXIuanAiLCJvZmZzZXQiOjksInBkdCI6Ii05MTM1In0.UOqkSaLPgZ-xk2jtQMWVD7BOc-Ne0Uq9YA_Xrd00T9I
+
 #EXTINF:-1 group-title="TVer" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",テレビ東京(TVer)
 https://ssai-variants.streaks.jp/v5/tver-simul-tx/035622a82bcb46bc8e41ca5351f95a00/3887c96991ce4ae1bec43ea19f24c4d5/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-177-8159/c01e1ad5-c73c-4791-833c-840e875e7912/0.m3u8?pdt=-11060&session=c01e1ad5-c73c-4791-833c-840e875e7912&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidHgtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTExMDYwIn0.i4JohkjR165q4VWqLAazOX5tdMvDsqocX9IS20CnOug
 
