@@ -626,3 +626,24 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08&isp=6&bi
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772939&sign=b81b2215d0d8954e7c9ed0fa3fdc67fe314143109ec424cdc7c700df7af78651
 #EXTINF:-1 group-title="CS2" tvg-id="DiscoveryChannel.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png",ディスカバリーチャンネル(primehome3)  
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732800385&sign=52a8ee86db26d6591e1aa74c3083dfb05f51084b6baf352a3960d739dff7de46
+
+#EXTINF:-1 group-title="CS2" tvg-id="AnimalPlanet.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",アニマルプラネット(primehome1)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380849&sign=2a87d11ca6d93311ef31ab7f2b8e5919140bd936c2dd98a4b18d07936b94a3ed
+#EXTINF:-1 group-title="CS2" tvg-id="AnimalPlanet.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",アニマルプラネット(primehome2)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772939&sign=b81b2215d0d8954e7c9ed0fa3fdc67fe314143109ec424cdc7c700df7af78651
+#EXTINF:-1 group-title="CS2" tvg-id="AnimalPlanet.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",アニマルプラネット(primehome3)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732800385&sign=52a8ee86db26d6591e1aa74c3083dfb05f51084b6baf352a3960d739dff7de46
+
+#EXTINF:-1 group-title="CS2" tvg-id="History.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png",ヒストリーチャンネル(primehome1)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380849&sign=2a87d11ca6d93311ef31ab7f2b8e5919140bd936c2dd98a4b18d07936b94a3ed
+#EXTINF:-1 group-title="CS2" tvg-id="History.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-134-400x400.png",ヒストリーチャンネル(primehome2)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772939&sign=b81b2215d0d8954e7c9ed0fa3fdc67fe314143109ec424cdc7c700df7af78651
+#EXTINF:-1 group-title="CS2" tvg-id="History.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png",ヒストリーチャンネル(primehome3)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732800385&sign=52a8ee86db26d6591e1aa74c3083dfb05f51084b6baf352a3960d739dff7de46
+
+#EXTINF:-1 group-title="CS2" tvg-id="NationalGeographic.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/320px-National_Geographic_Channel.svg.png",ナショジオ(primehome1)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380849&sign=2a87d11ca6d93311ef31ab7f2b8e5919140bd936c2dd98a4b18d07936b94a3ed
+#EXTINF:-1 group-title="CS2" tvg-id="NationalGeographic.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/320px-National_Geographic_Channel.svg.png",ナショジオ(primehome2)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772939&sign=b81b2215d0d8954e7c9ed0fa3fdc67fe314143109ec424cdc7c700df7af78651
+#EXTINF:-1 group-title="CS2" tvg-id="NationalGeographic.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/320px-National_Geographic_Channel.svg.png",ナショジオ(primehome3)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732800385&sign=52a8ee86db26d6591e1aa74c3083dfb05f51084b6baf352a3960d739dff7de46
