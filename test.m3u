@@ -550,3 +550,29 @@ http://103.255.250.194:5002/cs19.m3u8?token=48d8003cd187d6955d66602cfabe2df95450
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #CS2
+
+#EXTINF:-1 group-title="CS2" tvg-id="MnetJapan.jp" tvg-logo="https://www.lyngsat.com/logo/tv/mm/m_net_jp.png",Mnet(Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="CS2" tvg-id="SpaceShowerTV.jp" tvg-logo="https://www.lyngsat.com/logo/tv/ss/space_shower_tv.png",スペースシャワーTV(nekocdn)
+https://vnpt.nekocdn.xyz/bb127794-ed6f-44cb-9a77-3f1e63c0dbd9,m3u8
+#EXTINF:-1 group-title="CS2" tvg-id="SpaceShowerTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV.jpg",スペースシャワーTV(luong)
+http://luong.utako.moe/spaceshower/index.m3u8
+#EXTINF:-1 group-title="CS2" tvg-id="SpaceShowerTV.jp" tvg-logo="https://www.lyngsat.com/logo/tv/ss/space_shower_tv.png",スペースシャワーTV(primehome1)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380849&sign=2a87d11ca6d93311ef31ab7f2b8e5919140bd936c2dd98a4b18d07936b94a3ed
+#EXTINF:-1 group-title="CS2" tvg-id="SpaceShowerTV.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-156-400x400.png",スペースシャワーTV(primehome2)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772939&sign=b81b2215d0d8954e7c9ed0fa3fdc67fe314143109ec424cdc7c700df7af78651
+#EXTINF:-1 group-title="CS2" tvg-id="SpaceShowerTV.jp" tvg-logo="https://www.lyngsat.com/logo/tv/ss/space_shower_tv.png",スペースシャワーTV(primehome3)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732800385&sign=52a8ee86db26d6591e1aa74c3083dfb05f51084b6baf352a3960d739dff7de46
+
+#EXTINF:-1 group-title="CS2" tvg-id="MTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/240px-MTV_2021_%28brand_version%29.svg.png",MTV(nekocdn)
+https://vnpt.nekocdn.xyz/4b5031a9-04eb-4320-a708-bad2ac658205.m3u8
+#EXTINF:-1 group-title="CS2" tvg-id="MTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/240px-MTV_2021_%28brand_version%29.svg.png",MTV(primehome1)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380849&sign=2a87d11ca6d93311ef31ab7f2b8e5919140bd936c2dd98a4b18d07936b94a3ed
+#EXTINF:-1 group-title="CS2" tvg-id="MTV.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-150-400x400.png",MTV(primehome2)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772939&sign=b81b2215d0d8954e7c9ed0fa3fdc67fe314143109ec424cdc7c700df7af78651
+#EXTINF:-1 group-title="CS2" tvg-id="MTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/240px-MTV_2021_%28brand_version%29.svg.png",MTV(primehome3)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732800385&sign=52a8ee86db26d6591e1aa74c3083dfb05f51084b6baf352a3960d739dff7de46
+
+#EXTINF:-1 group-title="CS2" tvg-id="MUSICONTV.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/music_on_tv.png",Music ON TV!(Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
