@@ -158,3 +158,24 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&isp=7&bi
 #EXTINF:-1 group-title="関西" tvg-id="JOBHDTV.jp" tvg-logo="https://i.imgur.com/0ZZDaKi.jpeg",テレビ大阪(primehome3)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&17&bind=0&uin=201829&playseek=0&timestamp=1732570029&sign=b547bbdb0f348dd2fc6e9360d48442d014cb2a2547e07d55a7f2c2699373a92b&bind=0&uin=201337&playseek=0&timestamp=1732077742&sign=66999d45f5bf6097b7d13e5a35a1f5d8c7e14ebdedeb280283
 
+#EXTINF:-1 group-title="関西" tvg-id="JODXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/2560px-Ktv_logo.svg.png",関西テレビ(primehome1)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380849&sign=2a87d11ca6d93311ef31ab7f2b8e5919140bd936c2dd98a4b18d07936b94a3ed
+#EXTINF:-1 group-title="関西" tvg-id="JODXDTV.jp" tvg-logo="https://i.imgur.com/gr54fEO.jpeg",関西テレビ(primehome2)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772939&sign=b81b2215d0d8954e7c9ed0fa3fdc67fe314143109ec424cdc7c700df7af78651
+#EXTINF:-1 group-title="関西" tvg-id="JODXDTV.jp" tvg-logo="https://i.imgur.com/gr54fEO.jpeg",関西テレビ(primehome3)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&17&bind=0&uin=201829&playseek=0&timestamp=1732570029&sign=b547bbdb0f348dd2fc6e9360d48442d014cb2a2547e07d55a7f2c2699373a92b&bind=0&uin=201337&playseek=0&timestamp=1732077742&sign=66999d45f5bf6097b7d13e5a35a1f5d8c7e14ebdedeb280283
+
+#EXTINF:-1 group-title="関西" tvg-id="JOIXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png",読売テレビ(primehome1)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380849&sign=2a87d11ca6d93311ef31ab7f2b8e5919140bd936c2dd98a4b18d07936b94a3ed
+#EXTINF:-1 group-title="関西" tvg-id="JOIXDTV.jp" tvg-logo="https://i.imgur.com/xXyPAUP.jpeg",読売テレビ(primehome2)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772939&sign=b81b2215d0d8954e7c9ed0fa3fdc67fe314143109ec424cdc7c700df7af78651
+#EXTINF:-1 group-title="関西" tvg-id="JOIXDTV.jp" tvg-logo="https://i.imgur.com/xXyPAUP.jpeg",読売テレビ(primehome3)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04&17&bind=0&uin=201829&playseek=0&timestamp=1732570029&sign=b547bbdb0f348dd2fc6e9360d48442d014cb2a2547e07d55a7f2c2699373a92b&bind=0&uin=201337&playseek=0&timestamp=1732077742&sign=66999d45f5bf6097b7d13e5a35a1f5d8c7e14ebdedeb280283
+
+#中国
+
+#EXTINF:-1 group-title="中国" tvg-id="JORMDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Tss_logo.svg/1920px-Tss_logo.svg.png",TSSテレビ新広島(r3jx)
+http://r3jx.djtmewibu.com/tss/index.m3u8
+
+#BS1
+
