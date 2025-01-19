@@ -685,10 +685,10 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12&isp=7&bi
 
 #TVer
 
-#EXTINF:-1 group-title="TVer" tvg-id="JOAXDTV.jp" tvg-logo="https://i.imgur.com/oIfp5K3.jpeg",日本テレビ(TVer)
+#EXTINF:-1 group-title="TVer" tvg-id="JOAXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",日本テレビ(TVer)
 https://ssai-variants.streaks.jp/v5/tver-simul-ntv/3865af1a962349ceaa5efe46008030db/ed089bc4b7f342b3bc8a7a2567039442/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-174-7969/ec1fb16e-99ff-4101-a4af-41634c436073/0.m3u8?pdt=-9135&session=ec1fb16e-99ff-4101-a4af-41634c436073&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibnR2LWxpdmUtY2RuLnR2ZXIuanAiLCJvZmZzZXQiOjksInBkdCI6Ii05MTM1In0.UOqkSaLPgZ-xk2jtQMWVD7BOc-Ne0Uq9YA_Xrd00T9I
 
-#EXTINF:-1 group-title="TVer" tvg-id="JORXDTV.jp" tvg-logo="https://i.imgur.com/97Eiqg8.jpeg",TBS(TVer)
+#EXTINF:-1 group-title="TVer" tvg-id="JORXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS(TVer)
 https://ssai-variants.streaks.jp/v5/tver-simul-tbs/8e4c80725b9842cdb0f6f91260945222/b72f7e116957436b824f95d5138ea7a3/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-176-7925/900e0ecc-1639-44fc-be79-9a382ecc94e7/0.m3u8?pdt=-8950&session=900e0ecc-1639-44fc-be79-9a382ecc94e7&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidGJzLWxpdmUtY2RuLnR2ZXIuanAiLCJvZmZzZXQiOjksInBkdCI6Ii04OTUwIn0.ArP4taxXGywfzbllJx4_uoZ_brat6Dac4qbl-nWP9ig
 
 #EXTINF:-1 group-title="TVer" tvg-id="JOTXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",テレビ東京(TVer)
