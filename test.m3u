@@ -6,8 +6,6 @@
 http://vthanh.utako.moe/NHK_G/index.m3u8
 #EXTINF:-1 group-title="関東" tvg-id="JOAKDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G 東京(luong)
 http://luong.utako.moe/nhkg_fucknihontv.apymx/index.m3u8
-#EXTINF:-1 group-title="関東" tvg-id="JOAKDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G 東京(luong1)
-http://luong.utako.moe/NHK_G/index.m3u8
 #EXTINF:-1 group-title="関東" tvg-id="JOAKDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G 東京(primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380849&sign=2a87d11ca6d93311ef31ab7f2b8e5919140bd936c2dd98a4b18d07936b94a3ed
 #EXTINF:-1 group-title="関東" tvg-id="JOAKDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G 東京(nekocdn) 
@@ -19,14 +17,10 @@ http://r3jx.djtmewibu.com/nhkg/index.m3u8
 
 #EXTINF:-1 group-title="関東" tvg-id="JOABDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E(vthanh)
 http://vthanh.utako.moe/NHK_E/index.m3u8
+#EXTINF:-1 group-title="関東" tvg-id="JOABDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E(primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380849&sign=2a87d11ca6d93311ef31ab7f2b8e5919140bd936c2dd98a4b18d07936b94a3ed
 #EXTINF:-1 group-title="関東" tvg-id="JOABDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E(nekocdn)
 https://vnpt.nekocdn.xyz/d074504f-ca7a-467e-a67c-a91e69461775.m3u8
-#EXTINF:-1 group-title="関東" tvg-id="JOABDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E(primehome1)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380849&sign=2a87d11ca6d93311ef31ab7f2b8e5919140bd936c2dd98a4b18d07936b94a3ed
-#EXTINF:-1 group-title="関東" tvg-id="JOABDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK E(primehome2)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772939&sign=b81b2215d0d8954e7c9ed0fa3fdc67fe314143109ec424cdc7c700df7af78651
-#EXTINF:-1 group-title="関東" tvg-id="JOABDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK E(primehome3)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732800385&sign=52a8ee86db26d6591e1aa74c3083dfb05f51084b6baf352a3960d739dff7de46
 #EXTINF:-1 group-title="関東" tvg-id="JOABDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E(Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
@@ -650,6 +644,8 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10&isp=7&bi
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="CS2" tvg-id="NTVNEWS24.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/News24.svg/640px-News24.svg.png",日テレNEWS24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1 group-title="CS2" tvg-id="NTVNEWS24.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/News24.svg/640px-News24.svg.png",日テレNEWS24()
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1737480975/ei/r4aPZ7L6DffVs8IP0-GamAg/ip/2001:ce8:142:bfbf:8126:bcb1:4efd:5bca/id/cXLgNIqfIws.2/itag/312/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-3v2upjvh-03cs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/3600/manifest_duration/3600/bui/AY2Et-Nogyh9d2hza01NOHtHFOe3J2gRUVUa6PN6Q5UaTHclUnCeZWLUgu3KuzI9uQvnVmZVANiCCrt3/spc/9kzgDes26Ld4EmS8936dNPI_h30y4pa8U_P43J6LmjXaJY7-JVKWXgehDa6C/vprv/1/playlist_type/DVR/initcwndbps/4907500/met/1737459375,/mh/95/mm/44/mn/sn-3v2upjvh-03cs/ms/lva/mv/m/mvi/1/pl/49/rms/lva,lva/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/51326932,51335594,51353498,51371294,51384461/mt/1737458900/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIhALvfzJvlq7ZQIG8Ljsn-uIZpcavP0nozxjbydBL3yVOuAiBxd_vlVeoxDj3rhv4qGpann-i73JJHJ-fLSofm3CZHYw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/AGluJ3MwRQIgeNJdE_eadIj-KJcbixQM9nEdrXboKi-8hTjBEgxIV6ECIQDX3IaWvqINNUiWnTmPNU9gEIdPNLfeXlYqjKXmXx4LLA%3D%3D/playlist/index.m3u8
 
 #EXTINF:-1 group-title="CS2" tvg-id="TBSNewsCS.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-152-400x400.png",TBS NEWS(primehome1)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380849&sign=2a87d11ca6d93311ef31ab7f2b8e5919140bd936c2dd98a4b18d07936b94a3ed
