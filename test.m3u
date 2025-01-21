@@ -289,13 +289,13 @@ http://103.255.250.202:5002/bs07.m3u8?token=8c694f750b902e6f538cf207e6505710c633
 #EXTINF:-1 group-title="BS1" tvg-id="WOWOWCinema.jp" tvg-logo="https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_cinema.png",WOWOWシネマ(Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 group-title="BS1" tvg-id="StarBS10.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/2560px-Star_Channel-Japan.svg.png",StarBS10(primehome1) 
+#EXTINF:-1 group-title="BS1" tvg-id="StarChannel1.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/2560px-Star_Channel-Japan.svg.png",StarBS10(primehome1) 
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380849&sign=2a87d11ca6d93311ef31ab7f2b8e5919140bd936c2dd98a4b18d07936b94a3ed
-#EXTINF:-1 group-title="BS1" tvg-id="StarBS10.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/2560px-Star_Channel-Japan.svg.png",StarBS10(primehome2) 
+#EXTINF:-1 group-title="BS1" tvg-id="StarChannel1.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/2560px-Star_Channel-Japan.svg.png",StarBS10(primehome2) 
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772939&sign=b81b2215d0d8954e7c9ed0fa3fdc67fe314143109ec424cdc7c700df7af78651
-#EXTINF:-1 group-title="BS1" tvg-id="StarBS10.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/2560px-Star_Channel-Japan.svg.png",StarBS10(primehome3)
+#EXTINF:-1 group-title="BS1" tvg-id="StarChannel1.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/2560px-Star_Channel-Japan.svg.png",StarBS10(primehome3)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732800385&sign=52a8ee86db26d6591e1aa74c3083dfb05f51084b6baf352a3960d739dff7de46
-#EXTINF:-1 group-title="BS1" tvg-id="StarBS10.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/2560px-Star_Channel-Japan.svg.png",StarBS10(Willfon)
+#EXTINF:-1 group-title="BS1" tvg-id="StarChannel1.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/2560px-Star_Channel-Japan.svg.png",StarBS10(Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTINF:-1 group-title="BS1" tvg-id="BS11.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS11(vthanh)
