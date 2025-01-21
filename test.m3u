@@ -88,7 +88,7 @@ http://r3jx.djtmewibu.com/mx1/index.m3u8
 http://r3jx.djtmewibu.com/mx2/index.m3u8
 #EXTINF:-1 group-title="関東" tvg-id="TokyoMX2.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX2
 http://tv.utako.moe/mx2_testsignal/index.m3u8
-#EXTINF:-1 group-title="関東" tvg-id="TokyoMX2.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX2
+#EXTINF:-1 group-title="関東" tvg-id="TokyoMX2.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX22
 http://vthanh.utako.moe/Tokyo_MX2/index.m3u8
 
 #関西
