@@ -94,29 +94,26 @@ http://tv.utako.moe/mx2_testsignal/index.m3u8
 #EXTINF:-1 group-title="関西" tvg-id="JOBKDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G 大阪(primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380849&sign=2a87d11ca6d93311ef31ab7f2b8e5919140bd936c2dd98a4b18d07936b94a3ed
 
-#EXTINF:-1 group-title="関西" tvg-id="JOUHDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png",サンテレビ(primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380849&sign=2a87d11ca6d93311ef31ab7f2b8e5919140bd936c2dd98a4b18d07936b94a3ed
-
 #EXTINF:-1 group-title="Kansai" tvg-id="JOUHDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SUN-TV_wordmark_2019.png/180px-SUN-TV_wordmark_2019.png",サンテレビ
 http://luong.utako.moe/suntv/index.m3u8
 
-#EXTINF:-1 group-title="Kansai" tvg-id="kbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/250px-Kbs_logo.svg.png",KBS
+#EXTINF:-1 group-title="Kansai" tvg-id="JOBRDTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/250px-Kbs_logo.svg.png",KBS
 http://luong.utako.moe/kbs/index.m3u8
 
 #EXTINF:-1 group-title="関西" tvg-id="JOOYDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png",MBS(primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380849&sign=2a87d11ca6d93311ef31ab7f2b8e5919140bd936c2dd98a4b18d07936b94a3ed
+http://luong.utako.moe/mbs/index.m3u8
 
 #EXTINF:-1 group-title="関西" tvg-id="JOAYDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png",ABC朝日放送(primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380849&sign=2a87d11ca6d93311ef31ab7f2b8e5919140bd936c2dd98a4b18d07936b94a3ed
+http://luong.utako.moe/abc/index.m3u8
 
 #EXTINF:-1 group-title="関西" tvg-id="JOBHDTV.jp" tvg-logo="https://seeklogo.com/images/T/tv-osaka-logo-8BA164D52E-seeklogo.com.png",テレビ大阪(primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380849&sign=2a87d11ca6d93311ef31ab7f2b8e5919140bd936c2dd98a4b18d07936b94a3ed
+http://luong.utako.moe/tvo/index.m3u8
 
 #EXTINF:-1 group-title="関西" tvg-id="JODXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/2560px-Ktv_logo.svg.png",関西テレビ(primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380849&sign=2a87d11ca6d93311ef31ab7f2b8e5919140bd936c2dd98a4b18d07936b94a3ed
+http://luong.utako.moe/kansaitv/index.m3u8
 
 #EXTINF:-1 group-title="関西" tvg-id="JOIXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png",読売テレビ(primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380849&sign=2a87d11ca6d93311ef31ab7f2b8e5919140bd936c2dd98a4b18d07936b94a3ed
+http://luong.utako.moe/ytv/index.m3u8
 
 #中国
 
